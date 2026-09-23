@@ -34,10 +34,8 @@ TitanReagents is developed and maintained by **NeRgY**.
 Goals of this addon:
 
 - One addon covering **Classic Era, TBC Classic and WoW: Forever**
-- One reagent gets one Titan Panel segment, independently hideable/reorderable like any other Titan plugin
-- A clean, per-class reagent database with readable comments
+- One reagent gets one Titan Panel segment
 - Localized UI (English, German, French, Spanish, Russian)
-- Stay practical: stable, testable changes
 
 ---
 
