@@ -1,0 +1,24 @@
+## Interface: 11508, 11509, 20505, 20506, 16001
+## Title: Titan Panel [|cffeda55fReagents|r] |cff00aa001.0.0|r
+## Version: 1.0.0
+## IconTexture: Interface\Icons\INV_Misc_Dust_02
+## Notes: Displays and auto-buys your spell reagents on Titan Panel.
+## Notes-deDE: Zeigt deine Zauberreagenzien auf der Titan Panel an und kauft sie automatisch nach.
+## Notes-frFR: Affiche vos composants de sorts sur Titan Panel et les rachète automatiquement.
+## Notes-esES: Muestra tus reactivos de hechizos en Titan Panel y los recompra automáticamente.
+## Notes-esMX: Muestra tus reactivos de hechizos en Titan Panel y los recompra automáticamente.
+## Notes-ruRU: Отображает реагенты заклинаний на Titan Panel и автоматически покупает их.
+## Author: NeRgY
+## Dependencies: Titan
+
+Libs\ElioteDropDownMenu-1.0\ElioteDropDownMenu-1.0.lua
+Libs\Elib-4.0\Elib-4.0.lua
+
+Locales\enUS.lua
+Locales\deDE.lua
+Locales\frFR.lua
+Locales\esES.lua
+Locales\ruRU.lua
+
+ReagentDatabase.lua
+TitanReagents.lua
